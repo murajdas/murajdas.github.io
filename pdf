@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <title>PDF dokumenty</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+
+        a {
+            display: block;
+            margin-bottom: 10px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>PDF dokumenty</h1>
+
+    <a href="main.pdf" target="_blank">
+        Bakalárska práca – aktuálna verzia
+    </a>
+
+</body>
+</html>
